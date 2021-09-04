@@ -1,0 +1,1357 @@
+[
+  {
+    "Pregunta": "QUE DEBE TENER EN CUENTA AL COMPRAR UN SRI (SISTEMA RETENCIÓN INFANTIL)",
+    "Respuestas": [
+      "SEXO, TALLA, PESO.",
+      "PESO, TALLA, EDAD.",
+      "TALLA, SEXO, EDAD."
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "SI LA LUZ DE LOS INTERMITENTES DESTELLA MÁS RÁPIDO DE LO NORMAL, ESO SIGNIFICA QUE:",
+    "Respuestas": [
+      "LA BATERÍA NO CARGA CORRECTAMENTE",
+      "ES PROBABLE QUE SE HAYA QUEMADO UNA AMPOLLETA",
+      "SE ROMPIÓ EL ALTERNADOR"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": true
+  },
+  {
+    "Pregunta": "¿QUIÉN ES RESPONSABLE DE SRI.?",
+    "Respuestas": [
+      "PADRES",
+      "CONDUCTOR",
+      "TUTOR"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "SISTEMA RETENCIÓN INFANTIL: CARACTERÍSTICAS",
+    "Respuestas": [
+      "TIPO DE AUTO",
+      "RETENEDORES Y TIPO DE VEHÍCULO",
+      "CUMPLIR NORMAS RECONOCIDAS"
+    ],
+    "correcta": [
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "DE LOS SIGUIENTES EFECTOS, ¿CUÁL SE PRESENTA AL CONDUCIR A ALTA VELOCIDAD?",
+    "Respuestas": [
+      "MAYOR CONSUMO DE COMBUSTIBLE Y MAYOR EMISIÓN DE CONTAMINANTES",
+      "MENOR CONSUMO DE COMBUSTIBLE Y DE LÍQUIDO DE FRENOS",
+      "MAYOR CONSUMO DE LÍQUIDO DE FRENOS Y MENORES NIVELES DE RUIDO"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": true
+  },
+  {
+    "Pregunta": "DE ACUERDO A LOS CONCEPTOS DE CONVIVENCIA VIAL. ¿EN QUÉ SE BASA EL PRINCIPIO DE CONFIANZA?",
+    "Respuestas": [
+      "EN QUE LOS DEMÁS VAN A CUMPLIR CON LAS NORMAS DEL TRÁNSITO",
+      "EN QUE NO HAY QUE CONFIAR EN NINGÚN USUARIO DE LA VÍA",
+      "EN QUE CADA UNO HAGA LO QUE QUIERA"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "TRASLADAR A NIÑOS MENORES DE 12 AÑOS EN EL ASIENTO DELANTERO Y A NIÑOS DE 8 AÑOS INCLUSIVE SIN UN SISTEMA DE RETENCIÓN INFANTIL EN EL ASIENTO TRASERO, CORRESPONDE A:",
+    "Respuestas": [
+      "UNA FALTA GRAVE Y UNA FALTA GRAVÍSIMA, RESPECTIVAMENTE",
+      "UNA FALTA GRAVÍSIMA Y UNA FALTA GRAVE, RESPECTIVAMENTE",
+      "FALTAS GRAVÍSIMAS, AMBAS"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "SI UNA PERSONA HA INGERIDO ALCOHOL, ¿CUÁL DE LOS SIGUIENTES EFECTOS PROBABLEMENTE NO LE OCURRIRÁ?",
+    "Respuestas": [
+      "SUS REACCIONES SERÁN MÁS RÁPIDAS",
+      "SU AUTOCONFIANZA SE INCREMENTARÁ",
+      "SU CAPACIDAD DE COORDINACIÓN SE REDUCIRÁ"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿FRENTE A CUÁL DE LAS SEÑALES MOSTRADAS DEBE DETENERSE SIEMPRE UN CONDUCTOR ANTES DE VIRAR A LA IZQUIERDA?",
+    "Respuestas": [
+      "ILUSTRACIÓN A",
+      "ILUSTRACIÓN B",
+      "ILUSTRACIÓN C"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img2.PNG",
+    "seleccionada": true
+  },
+  {
+    "Pregunta": "UN CHOQUE A 50 KM/H. SIN LLEVAR PUESTO EL CINTURÓN DE SEGURIDAD, ES COMO TIRARSE A LA CALLE DESDE UN:",
+    "Respuestas": [
+      "CUARTO PISO SIN RED DE SEGURIDAD",
+      "QUINTO PISO SIN RED DE SEGURIDAD",
+      "OCTAVO PISO SIN RED DE SEGURIDAD"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿CUÁNTO SE DEMORA EN SER DETECTADO EL ALCOHOL EN LA SANGRE DESPUÉS DE HABER SIDO  INGERIDO.?",
+    "Respuestas": [
+      "30 MINUTOS",
+      "15 MINUTOS",
+      "5 MINUTOS"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "CON UNA ALCOHOLEMIA ENTRE 0,3 Y 0,5 GRAMOS DE ALCOHOL POR LITRO DE SANGRE EL RIESGO DE SUFRIR UN ACCIDENTE ES",
+    "Respuestas": [
+      "EL DOBLE  QUE SI NO HUBIERA BEBIDO",
+      "EL TRIPLE QUE SI NO HUBIERA BEBIDO",
+      "NO SUCEDE NADA CON EL ALCOHOL ENTRE ESOS GRADOS"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "CON UNA ALCOHOLEMIA ENTRE 0,5 Y 0,8 GRAMOS DE ALCOHOL POR LITRO DE SANGRE EL RIESGO DE SUFRIR UN ACCIDENTE ES:",
+    "Respuestas": [
+      "ES CINCO VECES MÁS QUE SI NO HUBIERA BEBIDO",
+      "ES CUATRO VECES MÁS QUE SI NO HUBIERA BEBIDO.",
+      "EL DOBLE QUE SI NO HUBIERA BEBIDO"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "EL CUERPO SE LIBERA DEL ALCOHOL MEDIANTE LA METABOLIZACIÓN DE ÉSTE. SE CALCULA QUE EN UNA PERSONA  SANA DE 70 KILOS LA PRESENCIA DE ALCOHOL DISMINUYE EN RAZÓN DE:",
+    "Respuestas": [
+      "ENTRE 0,10 A 0,15 GRAMOS DE ALCOHOL POR LITRO DE SANGRE POR HORA",
+      "ENTRE 0,15 A 0,20 GRAMOS DE ALCOHOL POR LITRO DE SANGRE POR HORA",
+      "ENTRE 0,25 A 0,30 GRAMOS DE ALCOHOL POR LITRO DE SANGRE POR HORA."
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuanto se demora una persona en eliminar 1 gramo por mil de alcohol en la sangre ",
+    "Respuestas": [
+      "Entre 2 a 3 horas",
+      "Entre 4 a 6 horas",
+      "Entre 7 a 10 horas"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál de estos líquidos, en el caso de estar en un nivel bajo, podría causar un accidente?",
+    "Respuestas": [
+      "El líquido de freno",
+      "El anticongelante",
+      "El agua de la batería"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted está probando la suspensión de su vehículo cuando nota que éste rebota u oscila al cargarlo en un extremo lateral frontal. ¿Qué significa esto?",
+    "Respuestas": [
+      "Neumáticos gastados.",
+      "Volante de dirección no centrado.",
+      "Amortiguadores gastados."
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Uno de sus neumáticos traseros se revienta mientras usted conduce.  ¿Cuáles 2 cosas debe hacer usted? Marque dos respuestas",
+    "Respuestas": [
+      "Detenerse lentamente al costado de la vía. ",
+      "Detener el vehículo frenando lo más fuerte que pueda.",
+      "Girar el volante hacia el mismo lado hacia el cual se desvía la cola del vehículo."
+    ],
+    "correcta": [
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuáles son las 2 principales razones por las cuales no debe desengancharse el motor al ir cuesta abajo? Marque dos respuestas",
+    "Respuestas": [
+      "Porque reduce su control sobre el vehículo.",
+      "Porque aumenta el desgaste de la caja de cambios",
+      "Porque aumenta el consumo de combustible"
+    ],
+    "correcta": [
+      true,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Para qué sirven los seguros de niños de los vehículos?",
+    "Respuestas": [
+      "Aseguran las hebillas de los cinturones de seguridad",
+      "Impiden que las puertas puedan abrirse desde el interior.",
+      "Bloquean las ventanas traseras manteniéndolas cerradas"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "El cinturón de seguridad disminuye las posibilidades de sufrir lesiones en un accidente.",
+      "Los air-bags (o bolsas de aire) reemplazan ventajosamente al cinturón de seguridad.",
+      "Para quienes viajan en el asiento trasero de un automóvil el cinturón de seguridad no les presta utilidad."
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)?",
+    "Respuestas": [
+      "No es seguro que un adulto lleve a un niño pequeño incluyéndolo en su cinturón de seguridad",
+      "El cinturón de seguridad disminuye las posibilidades de resultar lesionado en un accidente.",
+      "Un cinturón de seguridad bien tensado brinda mayor seguridad que uno menos tensado"
+    ],
+    "correcta": [
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Suponga que en una ocasión, - su distancia de reacción es de 10 metros (multiplica por 2 igual 20 metros) - su distancia de frenado es de 8 metros (multiplica por 4 igual 32 metros) - su distancia de detención (distancia de reacción más distancia de frenado) es de 18 metros ¿Cuál sería su distancia de detención si sigue conduciendo en calzada de idénticas características y condiciones, pero aumenta al doble su velocidad?",
+    "Respuestas": [
+      "46 metros",
+      "52 metros",
+      "64 metros"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "El auto azul circula a 70 km/h y el rojo a 90 km/h. ¿Dónde es más probable que sus conductores estimen el punto en que se producirá el encuentro de ambos vehículos? Marque dos respuestas",
+    "Respuestas": [
+      "El conductor del auto rojo estima que dicho punto será el 3.",
+      "El conductor del auto rojo estima que dicho punto será el 2.",
+      "El conductor del auto azul estima que dicho punto será el 1.",
+      "El conductor del auto azul estima que dicho punto será el 3."
+    ],
+    "correcta": [
+      true,
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img11.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va circulando a 50 km/h a lo largo de un camino plano y de asfalto. Las condiciones climáticas son buenas. Sus neumáticos y frenos también están buenos. En estas circunstancias, detenerse le tomará aproximadamente ...",
+    "Respuestas": [
+      "unos 50 metros",
+      "unos 15 metros",
+      "unos 30 metros"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted desea estacionar en bajada en una calle con pendiente pronunciada. ¿Qué debería hacer? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Estacionar con dos ruedas sobre la acera.",
+      "Dejar el volante girado hacia la acera.",
+      "Dejar puesto el freno de mano."
+    ],
+    "correcta": [
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  }
+  ,
+  {
+    "Pregunta": "La distancia de frenado es la distancia que recorre un vehículo desde que se presiona el freno hasta que el vehículo se detiene. De las siguientes variables, ¿cuáles influyen en la distancia de frenado? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "La velocidad.",
+      "El estado de los frenos y neumáticos.",
+      "Las condiciones climáticas."
+    ],
+    "correcta": [
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál es el tiempo de reacción promedio de un conductor ante un   imprevisto?",
+    "Respuestas": [
+      "1 segundo.",
+      "0.1 minuto.",
+      "0.1 segundo."
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuáles 2 de los siguientes rasgos son característicos de personas que ceden con facilidad a la presión del grupo? Marque dos respuestas",
+    "Respuestas": [
+      "Por lo general, son muy inseguras de sí mismas.",
+      "Sienten temor a ser motivo de bromas y risas de los demás.",
+      "Tienen mayor autonomía y voluntad para defender sus opiniones"
+    ],
+    "correcta": [
+      true,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "De los siguientes factores, ¿Cuál es el que con mayor frecuencia se presenta en los accidentes de tránsito?",
+    "Respuestas": [
+      "Los errores de los conductores.",
+      "Las condiciones climáticas",
+      "Las condiciones de calles y caminos"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "La capacidad de reacción de una persona se ve afectada con pequeñas concentraciones de alcohol en su organismo.",
+      "Una buena taza de café acelera el proceso mediante el cual el organismo se libera del alcohol.",
+      "Con pequeñas concentraciones de alcohol en el organismo de un individuo, disminuyen ciertas inhibiciones y tiende a sobrestimar sus capacidades."
+    ],
+    "correcta": [
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "En cuanto a la concentración de alcohol en la sangre de una persona que ingiere la misma cantidad en ocasiones diferentes, ¿cuál de las siguientes afirmaciones es falsa? ",
+    "Respuestas": [
+      "Aunque la persona beba la misma cantidad de alcohol cada ocasión, la concentración de éste en su sangre puede ser diferente.",
+      "La concentración de alcohol depende de cuánto se come en cada ocasión",
+      "Si la cantidad de alcohol ingerida en cada ocasión es exactamente la misma, la concentración de alcohol en la sangre también será la misma."
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "De las siguientes afirmaciones, ¿cuál o cuáles es(son) verdadera(s)? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "El factor humano es el principal causante de que surjan situaciones de riesgo en el tránsito.",
+      "La falta de atención a las condiciones del tránsito es una de las principales causa de accidentes",
+      "Un conductor que va con mucha prisa tiende a subestimar los riesgos.",
+      "Discutir con alguien o estar pendiente de la música de la radio, aumenta las posibilidades de pasar por alto circunstancias importantes en el tránsito."
+    ],
+    "correcta": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "De las siguientes afirmaciones, ¿cuál o cuáles es(son) verdadera(s)? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "El tener una buena visión es imprescindible para poder captar las diversas situaciones que se presentan al conducir.",
+      "Existe un alto riesgo de que los conductores cuyo campo visual no es lo suficientemente amplio, no alcancen a reaccionar a tiempo ante peligros provenientes de los lados",
+      "Si usted conduce durante un largo tiempo en condiciones difíciles, puede tener problemas para apreciar correctamente lo que ve y, por lo tanto, tomar decisiones equivocadas"
+    ],
+    "correcta": [
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Si usted ha ingerido alcohol, ¿cuál o cuáles son los efectos más probables? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Su capacidad de coordinación se reducirá",
+      "Su autoconfianza se incrementará",
+      "Presentará ceguera al color",
+      "Su juicio empeorará"
+    ],
+    "correcta": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cómo afecta el consumo de alcohol a su conducción?",
+    "Respuestas": [
+      "Acelera sus reacciones",
+      "Mejora su coordinación.",
+      "Reduce su concentración"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Qué consejo daría usted a un conductor que ha ingerido bebidas alcohólicas en una fiesta?",
+    "Respuestas": [
+      "Que se vuelva a casa en taxi.",
+      "Que tome una taza de café cargado y luego conduzca a casa.",
+      "Que se vuelva a casa conduciendo lenta y muy cuidadosamente"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted está a punto de conducir, pero se siente enfermo. Usted debería ...",
+    "Respuestas": [
+      "tomar una medicina antes de conducir",
+      "acortar el viaje si puede",
+      "no manejar"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "De los siguientes efectos, ¿cuál no es consecuencia del consumo de alcohol antes de conducir?",
+    "Respuestas": [
+      "Falsa sensación de confianza",
+      "Mayor conciencia del peligro.",
+      "Escaso juicio de la velocidad."
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "De las siguientes capacidades de un individuo, ¿cuál de ellas no se ve afectada por el consumo de alcohol?",
+    "Respuestas": [
+      "La percepción de colores.",
+      "Los tiempos de reacción.",
+      "La coordinación."
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuáles son las 2 principales razones por las que no sería adecuado que usted adelantara al peatón en este momento? Marque dos respuestas",
+    "Respuestas": [
+      "La calzada es angosta y el peatón podría desviarse inesperadamente hacia la derecha.",
+      "El vehículo de la izquierda podría avanzar.",
+      "Podría aparecer sorpresivamente algún vehículo en sentido contrario."
+    ],
+    "correcta": [
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img13.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "En esta ocasión usted va conduciendo a 70 km/h. ¿Qué hace usted? Marque dos respuestas",
+    "Respuestas": [
+      "Se desplaza hacia la izquierda",
+      "Continúa derecho.",
+      "Frena suavemente"
+    ],
+    "correcta": [
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img14.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted conduce a 90 km/h. En condiciones normales, ¿cuál es la distancia mínima de seguridad que usted debería mantener respecto del vehículo que va adelante?",
+    "Respuestas": [
+      "Unos 75 metros",
+      "Unos 20 metros",
+      "Unos 100 metros"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Mire el dibujo. ¿Cuál es el peligro al que usted debe estar más atento(a)?",
+    "Respuestas": [
+      "El niño puede cruzar corriendo",
+      "El vendedor de helados puede poner su vehículo en movimiento",
+      "El auto estacionado puede ponerse en movimiento"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img15.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted pretende doblar hacia la izquierda en un cruce, pero hay vehículos estacionados que le obstruyen la visual. ¿Qué debería hacer usted?",
+    "Respuestas": [
+      "Avanzar rápidamente, pero estando preparado para detenerse",
+      "Tocar la bocina y avanzar lentamente",
+      "Detenerse, luego avanzar lentamente hasta que tenga una visual plena"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 1,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va conduciendo al lado de una fila de autos estacionados. De pronto ve una pelota rebotando en la calzada un poco más adelante. ¿Qué debería hacer usted?",
+    "Respuestas": [
+      "Continuar a la misma velocidad, tocando la bocina",
+      "Continuar a la misma velocidad, pero encendiendo y apagando sus luces delanteras.",
+      "Disminuir la velocidad y estar preparado para detenerse si aparece un niño."
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img16.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Al adelantar en un camino a una manada de ovejas, ¿qué hace usted? Marque tres respuestas",
+    "Respuestas": [
+      "Deja un espacio lateral suficiente",
+      "Adelanta rápidamente y sin vacilaciones",
+      "Está preparado para detenerse",
+      "Conduce lentamente"
+    ],
+    "correcta": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿A qué debe estar especialmente atento el conductor del vehículo indicado con la flecha? Marque tres respuestas",
+    "Respuestas": [
+      "Peatones que puedan aparecer sorpresivamente entre autos estacionados para cruzar",
+      "Autos que abandonen sus lugares de estacionamiento",
+      "Lugares disponibles para estaciona",
+      "Puertas de automóviles estacionados que se abran"
+    ],
+    "correcta": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img18.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Qué debería hacer el conductor del auto señalado con la flecha?",
+    "Respuestas": [
+      "Esperar en el mismo lugar hasta tener luz verde",
+      "Esperar hasta tener luz roja.",
+      "Continuar con precaución."
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img20.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál es el principal peligro cuando usted sobrepasa al bus que está detenido en la parada? ",
+    "Respuestas": [
+      "Que el auto que va adelante puede detenerse para ceder el paso a un peatón.",
+      "Que alguien puede venir corriendo al bus desde el otro lado de la calle.",
+      "Que algún pasajero que se baje del bus puede aparecer repentinamente delante del mismo para cruzar"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img21.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Qué medidas debe adoptar un conductor cuando va en una fila de autos? I. Estar atento sólo a los vehículos que van delante de él en la fila. II. Mantener un espacio respecto del vehículo que va delante,  permitiendo  que otro vehículo pueda  ingresar  a dicho espacio y lo adelante. III. Mirar  hacia adelante, eventualmente a través de los cristales de los otros vehículos, a fin de poder moderar la velocidad a tiempo si alguien frena.",
+    "Respuestas": [
+      "I y II",
+      "II y  III",
+      "I, II y  III"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "En esta situación, ¿a cuáles 3 riesgos debe estar usted principalmente atento? Marque tres respuestas",
+    "Respuestas": [
+      "Al ciclista que viene en sentido contrario.",
+      "Al tránsito en la intersección que hay más adelante",
+      "A las puertas de autos que pueden ser abiertas",
+      "A niños que pueden salir a la calzada por entre los autos"
+    ],
+    "correcta": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img24.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va conduciendo a 70 km/h que es la velocidad máxima permitida en esta vía. ¿Qué hace en esta situación? Marque la o  las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Está preparado para actuar ya que alguien puede salir corriendo a la calzada.",
+      "Está preparado para actuar ya que el bus puede ponerse en marcha",
+      "Frena y cede el paso al bus, si éste está por salir de la parada"
+    ],
+    "correcta": [
+      true,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img25.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Mientras va conduciendo su vehículo usted siente que lo están llamando a su teléfono celular. Si el uso de éste no es por medio de un sistema de “manos libres”, ¿qué hace usted para responder la llamada?",
+    "Respuestas": [
+      "Reduce su velocidad",
+      "Espera hasta encontrar un lugar seguro donde detenerse",
+      "Conduce con una mano en el volante"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted llega a una intersección regulada por semáforo que se encuentra en rojo y, al mismo tiempo, un Carabinero le indica que avance, ¿qué debe hacer usted?",
+    "Respuestas": [
+      "Detenerse, porque la luz roja se lo está indicando",
+      "Avanzar, porque las instrucciones de un Carabinero prevalecen sobre las señales del tránsito",
+      "Avanzar, sólo si detrás suyo no vienen otros vehículos."
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Fuera de la ciudad, usted va por una carretera de doble calzada con dos pistas por sentido. La velocidad máxima permitida es de 100 km/hr. Si usted va a 90 km/hr y no van vehículos delante suyo, ¿por cuál pista circula usted?",
+    "Respuestas": [
+      "Por la pista de la izquierda",
+      "Por la pista de la derecha",
+      "Por cualquiera de las dos pistas"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Es seguro permitir que los niños viajen en un vehículo de 3 o 5 puertas en el espacio que queda detrás de los asientos traseros?",
+    "Respuestas": [
+      "No, en ninguna circunstancia",
+      "Sí, siempre que usted pueda ver sin problemas hacia atrás",
+      "Sí, si son menores de 10 años"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Cuál es la forma más segura para llevar a un niño de 3 ó 4 años en su vehículo?",
+    "Respuestas": [
+      "En la falda de un adulto compartiendo un mismo cinturón de seguridad.",
+      "En cualquier asiento, siempre que lleve puesto el cinturón de seguridad para adultos",
+      "En el asiento trasero, en una silla de seguridad"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "La forma más segura de viajar en un automóvil para un niño menor de 2 años es:",
+    "Respuestas": [
+      "En brazos de un adulto",
+      "Solo en el asiento trasero y con cinturón de seguridad",
+      "En una silla de seguridad, en el asiento trasero y mirando hacia atrás"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "En un vehículo de 3 o 5 puertas, ¿en qué condiciones sería seguro transportar niños pequeños en el espacio que queda detrás de los asientos traseros?",
+    "Respuestas": [
+      "Al efectuar un viaje corto dentro de la ciudad",
+      "Al circular por calles o caminos de poco tránsito",
+      "Nunca"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted está en una calle de un solo sentido de tránsito y desea virar a la izquierda. ¿Cuál o cuáles de las siguientes afirmaciones es(son) correcta(s)?",
+    "Respuestas": [
+      "Usted está bien situado para virar a la izquierda",
+      "Si después de virar usted volverá a virar nuevamente a la izquierda en el siguiente cruce, lo mejor es que se mantenga en la pista izquierda de la calle hacia la cual está virando.",
+      "Usted nunca puede saber si la calle hacia la cual vira tiene un solo sentido de tránsito o dos. Por eso, siempre debe tomar la pista derecha de la calle hacia la cual vira."
+    ],
+    "correcta": [
+      true,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img28.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿En cuál o cuáles de las siguientes situaciones puede usted virar a la izquierda sin que siempre deba detenerse antes? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": [
+      true,
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img29.PNG",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Frente a cuál o cuáles de las siguientes señales e indicaciones del semáforo debe usted detenerse siempre? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correcta": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img30.PNG",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va por una calle de doble sentido de tránsito. Para virar a la izquierda, ¿Dónde debería ubicarse?",
+    "Respuestas": [
+      "Lo más a la derecha posible",
+      "Justo a la izquierda de la línea de centro de calzada",
+      "Justo a la derecha de la línea de centro de calzada"
+    ],
+    "correcta": [
+      true,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va detrás de un camión articulado que va a doblar a la derecha hacia una vía angosta. ¿Qué debe hacer usted?",
+    "Respuestas": [
+      "Desplazarse rápidamente hacia la pista adyacente y sobrepasarlo",
+      "Sobrepasarlo por la derecha mientras él se desplace hacia la izquierda",
+      "Mantenerse detrás de él hasta que finalice su maniobra."
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img31.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Qué  señalización con el brazo debe realizar un conductor para indicar que va a virar a la izquierda?",
+    "Respuestas": [
+      "Ilustración  A",
+      "Ilustración  B",
+      "Ilustración  C"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img33.PNG",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted ha alcanzado a un auto al que desea adelantar. ¿Cuáles son las 3 cosas más difíciles de juzgar? Marque tres respuestas",
+    "Respuestas": [
+      "Si es suficientemente ancho el espacio a la izquierda del vehículo que va adelante",
+      "La distancia al vehículo que viene en sentido contrario",
+      "La longitud de la distancia de adelantamiento",
+      "El punto de encuentro con el vehículo que viene en contra"
+    ],
+    "correcta": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va conduciendo su vehículo a 90 km/h que es la velocidad máxima permitida en esa vía. ¿Qué hace usted si a pesar de todo un vehículo desea adelantarlo? Marque dos respuestas",
+    "Respuestas": [
+      "Conduce lo más a la derecha posible.",
+      "Se desplaza hacia la berma y circula por ella",
+      "No acelera."
+    ],
+    "correcta": [
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img34.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va por una carretera a 100 km/h. ¿Qué hace usted si a pesar de todo un vehículo que viene atrás desea adelantarlo? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Acelera para impedir el adelantamiento",
+      "Se mantiene lo más a la derecha posible",
+      "Mantiene o disminuye su velocidad"
+    ],
+    "correcta": [
+      false,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted desea adelantar. ¿Cuál o cuáles de las siguientes afirmaciones es(son) verdadera(s)? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "El camión tiene la obligación de correrse hacia la berma para dejarle a usted más espacio",
+      "El auto que viene en sentido contrario tiene la obligación de correrse a la berma para aumentar la seguridad",
+      "Usted tiene la obligación de esperar a que la pista del sentido contrario esté libre de vehículos para luego adelantar"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img35.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted ha comenzado a adelantar.El auto de la derecha va a aproximadamente 80 km/h.   Por su espejo retrovisor usted ve otro auto que tiene intención de adelantar.¿Qué hace usted?",
+    "Respuestas": [
+      "Frena ligeramente y vuelve a la pista derecha",
+      "Acelera y adelanta, porque el auto que usted adelanta tiene la obligación de reducir la velocidad",
+      "Acelera y adelanta tan rápido como pueda, para no obstaculizar al que viene detrás suyo"
+    ],
+    "correcta": [
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img36.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Por qué adelantar a un camión es más arriesgado que adelantar a un auto?",
+    "Respuestas": [
+      "Porque los camiones pueden detenerse sorpresivamente.",
+      "Porque los camiones son más largos que los autos",
+      "Porque los frenos de los camiones no son tan buenos"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va conduciendo de día por una zona rural. La calzada tiene pavimento en buen estado y tránsito bidireccional. A menos que alguna señal le indique otra cosa, usted no debe exceder los ...",
+    "Respuestas": [
+      "90 km/hr",
+      "100 km/hr",
+      "120 km/hr"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted va conduciendo en la ciudad por una calle con 2 pistas en sentido único de tránsito. A menos que alguna señal le indique otra cosa, usted no debe exceder los ...",
+    "Respuestas": [
+      "30 km/hr",
+      "50 km/hr",
+      "60 km/hr"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿En cuál o cuáles situaciones el vehículo está mal estacionado? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Ilustración A",
+      "Ilustración B",
+      "Ilustración C",
+      "Ilustración D"
+    ],
+    "correcta": [
+      true,
+      true,
+      false,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img37.PNG",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿En cuál o cuáles de las siguientes situaciones el conductor se ha detenido   correctamente para recoger un pasajero? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "Ilustración A",
+      "Ilustración B",
+      "Ilustración C",
+      "Ilustración D"
+    ],
+    "correcta": [
+      false,
+      true,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img38.PNG",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿En qué circunstancia usted se detendría justo sobre un cruce cebra existente a  mitad de cuadra?",
+    "Respuestas": [
+      "En ningún momento",
+      "Cuando no hay peatones esperando para cruzar",
+      "Cuando ello sea necesario para evitar un accidente"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Como regla general, ¿en cuál o cuáles de los siguientes lugares usted no debe estacionar? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "En una parada de buses",
+      "Al lado de un bandejón central",
+      "Frente a una entrada de autos de una casa particular.",
+      "En una curva del camino"
+    ],
+    "correcta": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "En cuáles  de las siguientes ocasiones debe usted detener siempre su vehículo?",
+    "Respuestas": [
+      "Al verse involucrado en un accidente",
+      "Al enfrentar una luz roja de un semáforo",
+      "Cuando un Carabinero se lo solicita"
+    ],
+    "correcta": [
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿A cuántos metros de una esquina es lo más cerca que usted puede estacionar?",
+    "Respuestas": [
+      "5 metros",
+      "10 metros",
+      "15 metros"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img39",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Como regla general, ¿En cuál o cuáles de los siguientes lugares nunca debe estacionar? Marque la o las respuesta(s) correcta(s)",
+    "Respuestas": [
+      "En un paso de peatones",
+      "En un puente",
+      "A menos de 10 metros de una esquina",
+      "En o al llegar a una parada de locomoción colectiva"
+    ],
+    "correcta": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": null,
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "¿Qué hace usted ante esta situación?",
+    "Respuestas": [
+      "Continúa a la misma velocidad",
+      "Toca la bocina",
+      "Se detiene"
+    ],
+    "correcta": [
+      false,
+      false,
+      true
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img40.jpg",
+    "seleccionada": false
+  },
+  {
+    "Pregunta": "Usted conduce a 90 km/h cuando la vía es obstruida sorpresivamente por un camión que está virando a la izquierda. ¿Qué es lo primero que hace usted ?",
+    "Respuestas": [
+      "Hace señales de luces y toca la bocina",
+      "Frena firmemente",
+      "Se desplaza a la pista de la izquierda"
+    ],
+    "correcta": [
+      false,
+      true,
+      false
+    ],
+    "Puntaje": 2,
+    "Imagenes": "./img/img41.jpg",
+    "seleccionada": false
+  }
+]
